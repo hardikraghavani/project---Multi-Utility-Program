@@ -2,7 +2,7 @@
 
 main()
 {
-	int first_angle , second_angle , third_angle,angle;
+	int first_angle , second_angle , third_angle;
 	
 	printf("enter your value first angle =");
 	scanf("%d",&first_angle);
